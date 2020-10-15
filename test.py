@@ -3,6 +3,11 @@ import re
 import keras_ocr
 pipeline = keras_ocr.pipeline.Pipeline()
 
+'''
+pipeline.detector.model.summary()
+pipeline.recognizer.model.summary()
+'''
+
 image = keras_ocr.tools.read('/ocr_test1.png')
 prediction_groups = pipeline.recognize([image])
 
