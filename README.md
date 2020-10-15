@@ -1,5 +1,8 @@
 # yan_docker_ocr_keras
 
+
+![docker setting](WX20201015-103502%402x.png)
+
 ```bash
 docker build -t yan_keras_orc:1.0.1 .
 
