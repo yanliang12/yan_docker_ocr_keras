@@ -28,3 +28,8 @@ text:	ahmed,	position:	[[ 34 189] [ 83 189] [ 83 203] [ 34 203]]
 text:	abdullah,	position:	[[ 92 189] [170 189] [170 203] [ 92 203]]
 text:	mastercard,	position:	[[274 191] [330 191] [330 202] [274 202]]
 ```
+
+
+## training 
+
+https://keras-ocr.readthedocs.io/en/latest/examples/end_to_end_training.html#
